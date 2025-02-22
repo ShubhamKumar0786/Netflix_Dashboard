@@ -19,7 +19,7 @@ This project aims to analyze Netflix data to extract valuable insights, identify
   - **Title**
 
 ## 🎯 Objectives
-- Perform exploratory data analysis (**EDA**) on Netflix content.
+- Perform pre processing on Netflix content.
 - Identify trends in content availability.
 - Analyze genre distribution and ratings.
 - Visualize insights using **Tableau**.
